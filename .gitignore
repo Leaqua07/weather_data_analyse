@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+
+debug.log
+regex/_regex.cp37-win_amd64.pyd
+debug.log
+pymongo/_cmessage.cp37-win_amd64.pyd
+bson/_cbson.cp37-win_amd64.pyd
+=======
 # Created by https://www.toptal.com/developers/gitignore/api/vscode,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=vscode,jupyternotebooks
 
@@ -24,3 +32,4 @@ ipython_config.py
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,jupyternotebooks
+>>>>>>> e5a7c3d9495e472109250ca37a831fc3f713bf5b
