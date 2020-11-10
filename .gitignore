@@ -13,6 +13,11 @@ bson/_cbson.cp37-win_amd64.pyd
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+###Leas Libs###
+regex/
+pymongo/
+bson/
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
