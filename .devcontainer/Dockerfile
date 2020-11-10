@@ -5,6 +5,6 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     apt-get install -y git vim && \
 # Install missing packets
-    pip3 install jupyter wetterdienst pymongo
+    pip3 install jupyter wetterdienst pymongo kafka
 
 USER vscode
